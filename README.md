@@ -27,4 +27,4 @@ To follow this project, please install the following locally:
 
 ## Data
 
-Download the dataset from NOAA, a US government agency.  You can follow these instructions to download the data:
+Download the dataset from NOAA, a US government agency. The dataset has 19288 rows worth of data
